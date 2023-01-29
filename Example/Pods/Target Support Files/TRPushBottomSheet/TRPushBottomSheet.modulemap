@@ -1,0 +1,6 @@
+framework module TRPushBottomSheet {
+  umbrella header "TRPushBottomSheet-umbrella.h"
+
+  export *
+  module * { export * }
+}

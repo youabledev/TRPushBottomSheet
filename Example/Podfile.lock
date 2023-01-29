@@ -1,0 +1,16 @@
+PODS:
+  - TRPushBottomSheet (0.1.0)
+
+DEPENDENCIES:
+  - TRPushBottomSheet (from `../`)
+
+EXTERNAL SOURCES:
+  TRPushBottomSheet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TRPushBottomSheet: 61e69b734cb6f154d8554cd03f7bf3ad2376918a
+
+PODFILE CHECKSUM: 655485e5550c38fc49a3189a18158b7d414bf720
+
+COCOAPODS: 1.11.3
