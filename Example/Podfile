@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'TRPushBottomSheet_Example' do
+  pod 'TRPushBottomSheet', :path => '../'
+
+  target 'TRPushBottomSheet_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
